@@ -1,0 +1,34 @@
+.Login{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.3)),url('../../assest/1337289.png');
+    /* height: calc(100vh-60px); */
+    height: 800px;
+    background-size: cover;
+    background-position: 100% 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.LoginForm{
+    padding: 2rem;
+    background: linear-gradient(rgba(0,0,0,0.85),rgba(0,0,0,0.85));
+    border-radius: 10px;
+    width:450px;
+    animation: 0.5s zoomin ease-in-out;
+}
+.LoginForm h1{
+    color: white;
+    text-align: center;
+}
+.LoginForm input,.LoginForm input:focus{
+    background: transparent;
+    color: white;
+}
+@keyframes zoomin{
+    0%{
+        transform: scale(0);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
