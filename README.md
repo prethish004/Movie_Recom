@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/22b43243-fdfe-4a7c-977a-5a47654ccb45)
 
 
-### Host Link=="https://movie-recommendation-xi.vercel.app/"
+### Host Link=="https://movie-recommendation-xi.vercel.app/".
 
 
 
